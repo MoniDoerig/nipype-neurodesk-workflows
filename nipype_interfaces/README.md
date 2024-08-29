@@ -10,7 +10,7 @@ This directory contains custom Nipype interfaces for various neuroimaging tools,
   - [Example Usage](./mri_synthstrip/example_usage_synthstrip_nipype.ipynb)
 
   ## Coming Soon
-- **NORDIC Denoising** (`NORDIC`): A Nipype interface for running NORDIC thermal noise reduction. Requires MATLAB.
+- **NORDIC Denoising** (`NORDIC`): A Nipype interface for running NORDIC thermal noise reduction. Requires MATLAB version 2017b or newer.
   - [Interface Script](./NORDIC/NIFIT_NORDIC_interface.py) *(Coming soon)*
   - [MATLAB Script](./NORDIC/NIFTI_NORDIC_nipype.m) *(Coming soon)*
   - [Example Usage](./NORDIC/example_usage_NORDIC_nipype.ipynb) *(Coming soon)*
