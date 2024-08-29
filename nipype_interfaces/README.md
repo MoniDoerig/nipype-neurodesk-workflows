@@ -1,7 +1,7 @@
 # Nipype Interfaces
 
 ## Overview
-This directory contains custom Nipype interfaces for various neuroimaging tools, such as FreeSurfer's SynthStrp tool. Each subdirectory includes the interface script(s) and an example usage notebook to demonstrate how to integrate the tool into your workflow.
+This directory contains custom Nipype interfaces for various neuroimaging tools, such as FreeSurfer's SynthStrip tool. Each subdirectory includes the interface script(s) and an example usage notebook to demonstrate how to integrate the tool into your workflow. You'll find resources/original papers and code referenced in the corresponding *example_usage notebooks*.
 
 ## Available Interfaces
 
@@ -13,7 +13,7 @@ This directory contains custom Nipype interfaces for various neuroimaging tools,
 1. Set up Neurodesk or Neurodesk Play:
    - Follow the setup instructions provided in the [README of the nipype-neurodesk-workflows](../README.md).
 2. Integrate the Tool/Nipype Interface:
-   - Navigate to the subdirectory for the desired tool (e.g., mri_synthstrip or NORDIC)
+   - Navigate to the subdirectory for the desired tool (e.g., mri_synthstrip)
    - Follow the instructions provided in the example_usage notebook within that subdirectory to integrate the interface into your workflow.
 
 
