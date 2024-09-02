@@ -1,5 +1,5 @@
 # nipype-neurodesk-workflows
-A collection of Nipype workflows tested on Neurodesk.
+A collection of Nipype workflows tested on Neurodesk Version [2024-04-04](https://hub.docker.com/layers/vnmd/neurodesktop/2024-04-04/images/sha256-5f7b1836e5dc33945d27bfbf91011bb21c4019e7c650b02f22edf313b1d33db4?context=explore).
 
 ### Prerequisites
 - Ensure that you have Docker or Podman installed (if you plan to use the full Neurodesk setup).
